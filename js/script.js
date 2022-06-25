@@ -1,5 +1,6 @@
 const $ = document
 
 window.addEventListener('load' , () => {
-    // Some Codes 
+    console.log("window is ready")
 })
+
